@@ -1,13 +1,21 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">AlexanderSND</a> 👋</h1>
+<h1 align="center"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3CF700&width=435&lines=Hi,+i'm+AlexanderSND+:D" alt="Typing SVG" /></a></h1>
 </div>
-<img src="https://i.postimg.cc/d0zbb5GS/go.png">
 
-## Sobre mi
+<div>
+<img src="https://i.postimg.cc/d0zbb5GS/go.png" width="1500">
+</div>
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+62k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+<br>
+<div align= "center">
+  <p>Visitors:</p>
+  <img src="https://profile-counter.glitch.me/AlekSCA17/count.svg" height="23px">
+</div>
+   
+## About me:
+
+- 👨🏻‍💻 Student in systems engineering 
+- 🧑🏻‍🔧💡 Electrician
+- ☕ Barista brewer
+
+##Prueba
