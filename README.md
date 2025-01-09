@@ -3,7 +3,7 @@
 </div>
 
 <div>
-<img src="https://i.postimg.cc/pTZ2yR5p/1-gif.gif" width="1500">
+<img src="https://i.postimg.cc/BZhqdMQv/Tunnel-Bear-Feature.png" width="1500">
 </div>
 
 <br>
