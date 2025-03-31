@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center"><img src="https://i.postimg.cc/BQ2s3Lzs/jaja.png"><img src="https://i.postimg.cc/BQ2s3Lzs/jaja.png" alt="Typing SVG" /></a></h1>
+<h1 align="center"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp"><img src="https://git.io/typing-svg" alt="Typing SVG" /></a></h1>
 </div>
 
 <div>
