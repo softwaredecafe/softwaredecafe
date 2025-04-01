@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3CF700&width=435&lines=Hi,+i'm+AlexanderSND+:D" alt="Typing SVG" /></a></h1>
 </div>
 <div>
-<img src="https://i.postimg.cc/BZhqdMQv/Tunnel-Bear-Feature.png" width="1500">
+<img src="https://i.postimg.cc/BQ2s3Lzs/jaja.png" width="1500">
 </div>
 
 <br>
