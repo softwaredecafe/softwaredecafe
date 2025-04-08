@@ -39,14 +39,14 @@
 <p>
 <img width= "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img width= "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-<img width="90px"src="https://camo.githubusercontent.com/fc27ff3bd591e48f69e5b4744e87c1094d52dddc836fd6394f0f565cc1172851/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466c61736b2d3035313232413f7374796c653d666c6174266c6f676f3d666c61736b" />
+<img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+<img width="40px"src="https://camo.githubusercontent.com/fc27ff3bd591e48f69e5b4744e87c1094d52dddc836fd6394f0f565cc1172851/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466c61736b2d3035313232413f7374796c653d666c6174266c6f676f3d666c61736b" />
 </p>
 
 ## Runtime Environment
 <p>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />  
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />  
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 </p>
 
 ## Database
@@ -67,8 +67,8 @@
 <img width="40px" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" />
 <img width="35px" src="https://i.postimg.cc/TwVD5MJB/Net-Beans-Logo-wine.png" />
 <img width="40px" src="https://img.icons8.com/?size=100&id=12599&format=png&color=FFFFFF" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
-<img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img width="40px" src="https://avatars.githubusercontent.com/u/164544218?s=200&v=4" />  
 </p>
