@@ -47,6 +47,7 @@
 <p>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />  
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+<img width="40px" src="https://i.postimg.cc/m2b7gPNL/5307940-middle-removebg-preview.png"/>
 </p>
 
 ## Database
@@ -57,7 +58,7 @@
 ## Operating systems
 <p>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img width="40px" src="https://i.postimg.cc/43h9SVZ5/linux-nedir-ne-ise-yarar-removebg-preview.png" />
 </p>
   
 ## IDEs & Tools
