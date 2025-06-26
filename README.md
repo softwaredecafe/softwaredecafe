@@ -58,13 +58,14 @@
 ## Operating systems
 <p>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-<img width="40px" src="https://www.flaticon.es/iconos-gratis/linux" />
+<img width="40px" src="https://i.postimg.cc/mDBgyHrh/linux.png" />
 </p>
   
 ## IDEs & Tools
 <p>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+<img width="40px" src="https://i.postimg.cc/qB9M1Sq9/BEVBJK1r-400x400-removebg-preview.png" />
 <img width="40px" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" />
 <img width="35px" src="https://i.postimg.cc/TwVD5MJB/Net-Beans-Logo-wine.png" />
 <img width="40px" src="https://img.icons8.com/?size=100&id=12599&format=png&color=FFFFFF" />
