@@ -58,7 +58,7 @@
 ## Operating systems
 <p>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-<img width="40px" src="https://i.postimg.cc/43h9SVZ5/linux-nedir-ne-ise-yarar-removebg-preview.png" />
+<img width="40px" src="https://www.flaticon.es/iconos-gratis/linux" />
 </p>
   
 ## IDEs & Tools
