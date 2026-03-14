@@ -8,7 +8,7 @@
 <br>
 <div align= "center">
   <p>Visitors:</p>
-  <img src="https://profile-counter.glitch.me/AlekSCA17/count.svg" height="23px">
+  <img src="https://komarev.com/ghpvc/?username=AlekSCA17&label=Views&color=blue&style=flat" height="23px">
 </div>
    
 ## About me:
